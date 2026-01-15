@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Lubebansokhekel/Zero_zsh/blob/main/Picsart_26-01-15_11-20-35-012.jpg" alt="Zero ZSH by Galirus" width="220">
+  <img src="https://github.com/Lubebansokhekel/Zero_zsh/blob/main/Picsart_26-01-15_11-20-35-012.jpg" alt="Zero ZSH by Galirus" width="320">
 </p>
 
 <h1 align="center">🎨 Zero ZSH – Termux Theme Installer</h1>
