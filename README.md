@@ -74,7 +74,7 @@ Jalankan perintah berikut di **Termux**:
 
 ```bash
 pkg update && pkg upgrade
-pkg install git
+pkg install git dialog mpv
 git clone https://github.com/Lubebansokhekel/Zero_zsh
 cd Zero_zsh
 chmod +x zsh.sh
